@@ -1,0 +1,26 @@
+site_name: My Docs
+site_name: XIN SHEN
+
+nav:
+  - Home: index.md
+  - Blog: 
+    
+        - NP-hard: blog/Np.md
+
+    
+
+theme:
+  palette:
+    primary: teal
+    accent: brown
+  logo: ele.png
+
+  name: material
+  features:
+    - navigation.path
+    - navigation.tabs
+    - navigation.instant
+extra:
+  homepage: https://xins3.github.io/
+
+
