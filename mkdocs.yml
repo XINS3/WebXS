@@ -4,8 +4,11 @@ site_name: XIN SHEN
 nav:
   - Home: index.md
   - Blog: 
-    
-        - NP-hard: blog/Np.md
+        
+        - NP-hard/Notebook: blog/Np.md
+        - ICA_väst/Swedish: blog/ica_1.md
+   
+          - 
 
     
 
