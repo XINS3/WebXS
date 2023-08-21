@@ -13,7 +13,7 @@ theme:
   palette:
     primary: teal
     accent: brown
-  logo: ele.png
+  logo: xinshen.png
 
   name: material
   features:
