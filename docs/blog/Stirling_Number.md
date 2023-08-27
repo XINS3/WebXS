@@ -4,5 +4,10 @@ The number of ways to divide $$n$$ vertices into $$g$$ nonempty groups is given 
 
 Proof $$S_n^2 = 2^{n-1} -1$$
 
-![part 1](https://i.ibb.co/QNVF3nn/Cam-Scanner-08-27-2023-16-41n-1.jpg){ align=center }
-![part 2](https://i.ibb.co/QNVF3nn/Cam-Scanner-08-27-2023-16-41n-1.jpg){ align=center }
+![part 1](https://i.ibb.co/QNVF3nn/Cam-Scanner-08-27-2023-16-41n-1.jpg)
+![part 2](https://i.ibb.co/mrjMfsF/Cam-Scanner-08-27-2023-16-42n-1.jpg)
+
+
+---
+date: 2023-08-27
+---
