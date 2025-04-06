@@ -17,6 +17,9 @@
     background-position: center;
     background-size: cover;
 }
+.md-header__inner {
+    background-color: transparent;
+}
 
 body,
 .md-content,
