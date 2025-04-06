@@ -2,7 +2,7 @@
     width: 100%;
     height: 35vh;
     font-family: 'Indie Flower', cursive;
-    font-size: 36px;
+    font-size: 40px;
     overflow: hidden;
     display: flex;
     justify-content: center;
@@ -15,7 +15,7 @@
 /* 顶部整体背景图 */
 /* ✅ 只给整体 header 设置背景图 */
 .md-header {
-    height: 250px;
+    height: 280px;
     background: url('../ele.png') no-repeat center center;
     background-size: cover;
 }
@@ -24,14 +24,14 @@
 .md-header__inner,
 .md-tabs,
 .md-tabs__list {
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+    background-color: rgba(0, 0, 0, 0.4);
     background-image: none;
 }
 
 
 /* 增加高度让图片更完整显示 */
 .md-header {
-    height: 200px;
+    height: 280px;
 }
 .md-tabs {
     height: 80px; /* 控制导航栏本身高度 */
