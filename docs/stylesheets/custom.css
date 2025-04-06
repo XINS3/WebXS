@@ -13,3 +13,7 @@
   background-size: cover;  /* 使背景图像覆盖整个容器 */
   background-position: center;  /* 背景图像居中 */
 }
+.md-header {
+    background: url('ele.png') no-repeat center center;
+    background-size: cover;
+}
