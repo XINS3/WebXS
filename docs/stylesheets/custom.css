@@ -46,7 +46,9 @@
 }
 /* 页面背景使用渐变 */
 body,
-.md-content,
+.md-content{
+    background: transparent;
+}
 .md-main {
     background-color: rgba(0, 0, 0, 0.4);
 }
