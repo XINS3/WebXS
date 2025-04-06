@@ -31,7 +31,7 @@ theme:
   palette:
     primary: teal
     accent: brown
-  logo: w1.HEIC
+  logo: w.png
 
   name: material
   features:
