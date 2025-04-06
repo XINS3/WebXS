@@ -13,7 +13,7 @@
 /* 顶部整体背景图 */
 /* ✅ 只给整体 header 设置背景图 */
 .md-header {
-    height: 180px;
+    height: 250px;
     background: url('../ele.png') no-repeat center center;
     background-size: cover;
 }
@@ -22,7 +22,7 @@
 .md-header__inner,
 .md-tabs,
 .md-tabs__list {
-    background-color: transparent;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
     background-image: none;
 }
 
