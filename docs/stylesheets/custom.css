@@ -11,16 +11,21 @@
 }
 
 /* 顶部整体背景图 */
-.md-header,
+/* ✅ 只给整体 header 设置背景图 */
+.md-header {
+    height: 180px;
+    background: url('../ele.png') no-repeat center center;
+    background-size: cover;
+}
+
+/* ✅ 其他部分保持透明 */
 .md-header__inner,
 .md-tabs,
 .md-tabs__list {
-    background-image: url('../ele.png');
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
     background-color: transparent;
+    background-image: none;
 }
+
 
 /* 增加高度让图片更完整显示 */
 .md-header {
