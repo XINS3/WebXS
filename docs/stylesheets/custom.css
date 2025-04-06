@@ -10,27 +10,36 @@
     background-position: center;
 }
 
-
-.md-header {
+/* 顶部整体背景图 */
+.md-header,
+.md-header__inner,
+.md-tabs,
+.md-tabs__list {
     background-image: url('../ele.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-}
-.md-header__inner {
     background-color: transparent;
 }
 
+/* 增加高度让图片更完整显示 */
+.md-header {
+    height: 160px;
+}
+
+/* 页面背景使用渐变 */
 body,
 .md-content,
 .md-main {
-    background: linear-gradient(135deg, #5f2c82, #b185db); /* light gray */
+    background-color: #f5f5f5;
 }
+
+/* 隐藏默认的页面大标题 */
 .md-content h1:first-of-type {
     display: none;
 }
 
+/* 设置手写体 */
 body {
-  font-family: 'Indie Flower', cursive;
+    font-family: 'Indie Flower', cursive;
 }
-
