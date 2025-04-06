@@ -5,7 +5,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('../ele.png');
+    background-image: url('ele.png');
     background-size: cover;
     background-position: center;
 }
