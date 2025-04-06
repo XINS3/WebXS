@@ -47,10 +47,11 @@
 /* 页面背景使用渐变 */
 body,
 .md-main{
-    background: transparent;
+    
+    background-color: rgba(0, 0, 0, 0.4);
 }
 .md-content {
-    background-color: rgba(0, 0, 0, 0.4);
+    background: transparent;
 }
 
 /* 隐藏默认的页面大标题 */
