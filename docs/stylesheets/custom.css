@@ -45,7 +45,7 @@
     align-items: center;
 }
 /* 页面背景使用渐变 */
-body,
+
 .md-main{
     
     background-color: rgba(0, 0, 0, 0.4);
@@ -62,4 +62,5 @@ body,
 /* 设置手写体 */
 body {
     font-family: 'Fira Sans', sans-serif;
+    background: transparent;
 }
