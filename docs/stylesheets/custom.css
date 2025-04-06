@@ -5,14 +5,14 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('ele.png');
+    background-image: url('../ele.png');
     background-size: cover;
     background-position: center;
 }
 
 
 .md-header {
-    background-image: url('ele.png');
+    background-image: url('../ele.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
