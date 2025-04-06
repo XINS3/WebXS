@@ -24,9 +24,19 @@
 
 /* 增加高度让图片更完整显示 */
 .md-header {
-    height: 160px;
+    height: 200px;
+}
+.md-tabs {
+    height: 80px; /* 控制导航栏本身高度 */
+    align-items: center;
 }
 
+/* 调整导航菜单项垂直居中 */
+.md-tabs__list {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
 /* 页面背景使用渐变 */
 body,
 .md-content,
