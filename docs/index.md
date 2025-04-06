@@ -1,5 +1,5 @@
 <div class="homepage-hero">
-  <img src="path/to/your/ele.png" alt="Hero Image">
+  <img src="ele.png" alt="Hero Image">
 </div>
 
 随笔。
