@@ -31,7 +31,7 @@ theme:
   palette:
     primary: teal
     accent: brown
-  logo: xinshen.png
+  logo: window.png
 
   name: material
   features:
