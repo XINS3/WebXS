@@ -17,3 +17,11 @@
     background: url('ele.png') no-repeat center center;
     background-size: cover;
 }
+body,
+.md-content,
+.md-main {
+    background-color: #f0f0f0; /* light gray */
+}
+.md-content h1:first-of-type {
+    display: none;
+}
