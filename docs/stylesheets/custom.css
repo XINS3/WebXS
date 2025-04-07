@@ -22,7 +22,6 @@
 
 /* ✅ 其他部分保持透明 */
 .md-header__inner,
-.md-tabs,
 .md-tabs__list {
     background: transparent;
     background-image: none;
@@ -36,9 +35,11 @@
 .md-tabs {
     height: 80px; /* 控制导航栏本身高度 */
     align-items: center;
+    
+}
+.md-tabs{
     background-color: rgba(0, 0, 0, 0.4);
 }
-
 /* 调整导航菜单项垂直居中 */
 .md-tabs__list {
     height: 100%;
