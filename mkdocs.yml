@@ -31,7 +31,7 @@ theme:
   palette:
     primary: teal
     accent: brown
-  logo: F.PNG
+  logo: F.png
 
   name: material
   features:
