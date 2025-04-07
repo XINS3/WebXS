@@ -36,6 +36,7 @@
 .md-tabs {
     height: 80px; /* 控制导航栏本身高度 */
     align-items: center;
+    background-color: rgba(0, 0, 0, 0.4);
 }
 
 /* 调整导航菜单项垂直居中 */
@@ -52,7 +53,8 @@
     background: transparent;
 }
 .md-content {
-    background-color: rgba(0, 0, 0, 0.4);
+    
+    background: transparent;
 }
 
 /* 隐藏默认的页面大标题 */
