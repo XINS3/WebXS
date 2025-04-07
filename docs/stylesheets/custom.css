@@ -15,7 +15,7 @@
 /* 顶部整体背景图 */
 /* ✅ 只给整体 header 设置背景图 */
 .md-header {
-    height: 280px;
+    height: 290px;
     background: url('../ele.png') no-repeat center center;
     background-size: cover;
 }
@@ -30,10 +30,10 @@
 
 /* 增加高度让图片更完整显示 */
 .md-header {
-    height: 280px;
+    height: 290px;
 }
 .md-tabs {
-    height: 80px; /* 控制导航栏本身高度 */
+    height: 60px; /* 控制导航栏本身高度 */
     align-items: center;
     
 }
