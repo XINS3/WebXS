@@ -12,20 +12,19 @@
     background-position: center;
 }
 
-/* 顶部整体背景图 */
-/* ✅ 只给整体 header 设置背景图 */
+
 .md-header {
     height: 290px;
     background: url('../ele.png') no-repeat center center;
     background-size: cover;
 }
-/* 放大左上角 logo 图像 */
+
 .md-header__button.md-logo img {
     height: 64px !important;
     width: auto !important;
 }
 
-/* ✅ 其他部分保持透明 */
+
 .md-header__inner,
 .md-tabs__list {
     background: transparent;
@@ -33,7 +32,7 @@
 }
 
 
-/* 增加高度让图片更完整显示 */
+
 .md-header {
     height: 270px;
 }
@@ -57,7 +56,6 @@
     color: black !important;
 }
 
-/* 页面背景使用渐变 */
 
 .md-main{
     
