@@ -30,22 +30,28 @@
 
 /* 增加高度让图片更完整显示 */
 .md-header {
-    height: 290px;
+    height: 270px;
 }
 .md-tabs {
     height: 60px; /* 控制导航栏本身高度 */
     align-items: center;
     
 }
-.md-tabs{
-    background-color: rgba(245, 245, 220, 0.7);
+.md-tabs {
+    background: url('../ele.png') no-repeat center center;
+    background-size: cover;
 }
+
 /* 调整导航菜单项垂直居中 */
 .md-tabs__list {
     height: 100%;
     display: flex;
     align-items: center;
 }
+.md-tabs__link {
+    color: black !important;
+}
+
 /* 页面背景使用渐变 */
 
 .md-main{
