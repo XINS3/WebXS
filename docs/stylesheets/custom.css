@@ -19,6 +19,11 @@
     background: url('../ele.png') no-repeat center center;
     background-size: cover;
 }
+/* 放大左上角 logo 图像 */
+.md-header__button.md-logo img {
+    height: 64px !important;
+    width: auto !important;
+}
 
 /* ✅ 其他部分保持透明 */
 .md-header__inner,
