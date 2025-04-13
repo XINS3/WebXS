@@ -6,7 +6,7 @@
 
 2025-4-13
 
-![alt text](https://github.com/XINS3/WebXS/blob/main/docs/blog/kungstra%CC%88dga%CC%8Arden.png)
+![alt text](https://github.com/XINS3/WebXS/blob/main/docs/kungstra%CC%88dga%CC%8Arden.png)
 
 
 
