@@ -6,6 +6,6 @@
 
 ![alt text](https://github.com/XINS3/WebXS/edit/main/docs/blog/kungsträdgården.png?raw=true)
 ![plot](https://github.com/XINS3/WebXS/edit/main/docs/blog/kungsträdgården.png?raw=true)
-![image info](https://github.com/XINS3/WebXS/edit/main/docs/blog/kungsträdgården.png?raw=true)
+![image info](https://github.com/XINS3/WebXS/docs/blog/kungsträdgården.png?raw=true)
 2025-4-13
 
