@@ -4,7 +4,7 @@
 感受到手指的疲惫感，感受到手腕关节的轻微疼痛，感受到后颈的酸痛，连着后脑勺再连着头顶的紧张感，眼部的疲惫感，手臂肌肉的酸胀感，腹腔一起一伏，淡淡的肌饿感，臀部和沙发的
 接触感，膝盖的疼痛感，脚趾的疲惫感。一部分来自于工作，一部分来自于攀岩，一部分来自于大脑不够专注。保持细化目标的习惯。
 
-![alt text](https://github.com/XINS3/WebXS/edit/main/docs/blog/kungsträdgården.png?raw=true)
+![alt text](https://github.com/XINS3/WebXS/blob/main/docs/blog/kungstra%CC%88dga%CC%8Arden.png)
 ![plot](https://github.com/XINS3/WebXS/edit/main/docs/blog/kungsträdgården.png?raw=true)
 ![image info](https://github.com/XINS3/WebXS/docs/blog/kungsträdgården.png?raw=true)
 2025-4-13
