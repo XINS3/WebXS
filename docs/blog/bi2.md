@@ -5,5 +5,6 @@
 接触感，膝盖的疼痛感，脚趾的疲惫感。一部分来自于工作，一部分来自于攀岩，一部分来自于大脑不够专注。保持细化目标的习惯。
 
 ![alt text](https://github.com/XINS3/WebXS/edit/main/docs/blog/kungsträdgården.png?raw=true)
+![plot](https://github.com/XINS3/WebXS/edit/main/docs/blog/kungsträdgården.png?raw=true)
 2025-4-13
 
