@@ -1,3 +1,6 @@
+这里的能量(energy)是精力分配，情感分配的总称
+此处的边可以代表人与人之间的关系链接，节点代表个人
+
 simulate a very simple energy spreading model in small dynamic networks:
 
 * each node i contains energy at moment t: $E_i(t)$
