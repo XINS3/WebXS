@@ -14,15 +14,9 @@ simulate a very simple energy spreading model in small dynamic networks:
 
 ![Dynamic Network Animation](../dynamic_network1.gif)
 
-<video width="600" controls>
-  <source src="../dynamic_network1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
 *  如果不考虑能量损耗，理想情况下某些系统（也取决于网络结构）也可以达到一种平衡
-  <video width="600" controls>
-  <source src="../dynamic_network.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+ ![Dynamic Network Animation](../dynamic_network.gif)
 
 2025-4-28
