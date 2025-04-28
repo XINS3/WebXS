@@ -12,6 +12,7 @@ simulate a very simple energy spreading model in small dynamic networks:
 *   如果考虑能量损耗 即 loss rate ($\alpha$) 不为0的情况下: 系统最终会崩溃或者能量耗尽
   
 
+![Dynamic Network Animation](../dynamic_network1.gif)
 
 <video width="600" controls>
   <source src="../dynamic_network1.mp4" type="video/mp4">
