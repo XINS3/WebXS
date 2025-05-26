@@ -1,0 +1,79 @@
+.homepage-hero {
+    width: 100%;
+    height: 35vh;
+    font-family: 'Indie Flower', cursive;
+    font-size: 40px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../ele.png');
+    background-size: cover;
+    background-position: center;
+}
+
+
+.md-header {
+    height: 290px;
+    background: url('../ele.png') no-repeat center center;
+    background-size: cover;
+}
+
+.md-header__button.md-logo img {
+    height: 64px !important;
+    width: auto !important;
+}
+
+
+.md-header__inner,
+.md-tabs__list {
+    background: transparent;
+    background-image: none;
+}
+
+
+
+.md-header {
+    height: 270px;
+}
+.md-tabs {
+    height: 60px; /* 控制导航栏本身高度 */
+    align-items: center;
+    
+}
+.md-tabs {
+    background: url('../ele.png') no-repeat center center;
+    background-size: cover;
+}
+
+/* 调整导航菜单项垂直居中 */
+.md-tabs__list {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.md-tabs__link {
+    color: black !important;
+}
+
+
+.md-main{
+    
+    
+    background: transparent;
+}
+.md-content {
+    
+    background: transparent;
+}
+
+/* 隐藏默认的页面大标题 */
+.md-content h1:first-of-type {
+    display: none;
+}
+
+/* 设置手写体 */
+body {
+    font-family: 'Fira Sans', sans-serif;
+    background: transparent;
+}
